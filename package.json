@@ -2,6 +2,27 @@
   "name": "agio-support-solutions",
   "version": "0.1.0",
   "private": true,
+  "description": "Assignment given by Agio Support Solutions Pvt. Ltd. — React app that fetches users from JSONPlaceholder, supports search, filter by city, shows user details in a modal, and manages favorites in localStorage.",
+  "author": "Shikha Jain",
+  "keywords": [
+    "agio-support-solutions",
+    "agio",
+    "assignment",
+    "shikha-jain",
+    "react",
+    "create-react-app",
+    "jsonplaceholder",
+    "users",
+    "favorites",
+    "localstorage",
+    "responsive",
+    "vercel"
+  ],
+  "homepage": "https://agio-support-solutions-assignment.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shikha115/agio-support-solutions-assignment"
+  },
   "dependencies": {
     "@tanstack/react-query": "^5.90.6",
     "@testing-library/dom": "^10.4.1",
@@ -50,5 +71,8 @@
   "devDependencies": {
     "@tanstack/eslint-plugin-query": "^5.91.2",
     "tailwindcss": "^3.4.18"
-  }
+  },
+  "files": [
+    "Frontend_Developer_Test.pdf"
+  ]
 }
